@@ -24,8 +24,8 @@ shout Pah to shoot.
 **Please note**:So far, These following phone can’t running “Voice Fighter” normally. Sony Ericsson X10, Acer A1, MEIZU M9.
 
 ## Screenshot:
-![alt text](../attachment/voice-fight-android/ss1.jpg "Logo Title Text 1")
-![alt text](../attachment/voice-fight-android/ss2.jpg "Logo Title Text 1")
+![alt text](assets/voice-fight-android/ss1.jpg "Logo Title Text 1")
+![alt text](assets/voice-fight-android/ss2.jpg "Logo Title Text 1")
 
-![alt text](../attachment/voice-fight-android/ss3.jpg "Logo Title Text 1")
-![alt text](../attachment/voice-fight-android/ss4.jpg "Logo Title Text 1")
+![alt text](assets/voice-fight-android/ss3.jpg "Logo Title Text 1")
+![alt text](assets/voice-fight-android/ss4.jpg "Logo Title Text 1")

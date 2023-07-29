@@ -83,12 +83,11 @@ a {
 }
 
 .grid-container {
-	display: flex;
-	flex-direction: column;
-	grid-template-columns: repeat(auto-fill, minmax(300px, 1200px));
-	gap: 20px;
-	align-items: center;
-	justify-content: center;
+    display: grid;
+    max-width: 1200px; 
+    margin: 0 auto; 
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
 }
 
 .list-item {

@@ -4,6 +4,8 @@ output_folder="/var/www/codingmelody.com/public_html"
 input_folder="/root/code/goblin-den" # change it to the goblin-den path
 check_interval=300 # check every 5 minutes
 
+cd $input_folder || exit 1
+
 previous_hash=$(git rev-parse HEAD)
 
 build_website() {

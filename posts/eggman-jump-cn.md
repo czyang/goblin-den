@@ -25,8 +25,8 @@ permanent: eggman-jump-android-cn
 * “分享”按钮，你可以方便的把蛋人分享给你的朋友们
 
 ## 游戏截图：
-![alt text](../attachment/eggman-jump/2.jpg "Logo Title Text 1")
-![alt text](../attachment/eggman-jump/3.png "Logo Title Text 1")
+![alt text](assets/eggman-jump/2.jpg "Logo Title Text 1")
+![alt text](assets/eggman-jump/3.png "Logo Title Text 1")
 
-![alt text](../attachment/eggman-jump/4.png "Logo Title Text 1")
-![alt text](../attachment/eggman-jump/5.png "Logo Title Text 1")
+![alt text](assets/eggman-jump/4.png "Logo Title Text 1")
+![alt text](assets/eggman-jump/5.png "Logo Title Text 1")

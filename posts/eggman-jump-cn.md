@@ -8,7 +8,7 @@ permanent: eggman-jump-android-cn
 
 # 蛋人跳吧
 
-![alt text](../attachment/eggman-jump/1.jpg "Logo Title Text 1")
+![alt text](assets/eggman-jump/1.jpg "Logo Title Text 1")
 
 ## 游戏介绍：
 蛋人跳吧是一个有趣又极富挑战性的跳跃类游戏！

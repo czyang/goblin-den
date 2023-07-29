@@ -3,8 +3,14 @@ My personal blog using goblin as the generator
 
 ## Auto fetch and gen blog
 ```bash
-mv ./goblin-wizard.service /etc/systemd/system/
+cp ./goblin-wizard.service /etc/systemd/system/
 
 sudo systemctl start goblin-wizard
 sudo systemctl enable goblin-wizard
+
+systemctl daemon-reload
+
+sudo systemctl restart goblin-wizard
+sudo systemctl status goblin-wizard
+
 ```

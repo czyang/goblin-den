@@ -7,7 +7,7 @@ check_interval=300 # check every 5 minutes
 previous_hash=$(git rev-parse HEAD)
 
 build_website() {
-    goblin -posts="./posts" -template="$input_folder/tmpl" -output="$output_folder" -config="$input_folder/config.json"
+    goblin -posts="$input_folder/posts" -template="$input_folder/tmpl" -output="$output_folder" -config="$input_folder/config.json"
     cp "$input_folder/index.html" "$input_folder/main.css" "$input_folder/about.html" "$output_folder"
     cp -R "$input_folder/image" "$output_folder"
 }

@@ -6,8 +6,14 @@ check_interval=300 # check every 5 minutes
 
 previous_hash=$(git rev-parse HEAD)
 
+build_website() {
+    goblin -posts="./posts" -template="$input_folder/tmpl" -output="$output_folder"
+    cp index.html main.css about.html "$output_folder"
+    cp -R image "$output_folder"
+}
+
 # Initial run
-goblin -posts="./posts" -template="$input_folder/tmpl" -output="$output_folder"
+build_website
 
 while true
 do
@@ -16,7 +22,7 @@ do
 
     if [ "$previous_hash" != "$current_hash" ]; then
         echo "New changes detected, rebuilding..."
-        goblin -posts="./posts" -template="$input_folder/tmpl" -output="$output_folder"
+        build_website
         previous_hash="$current_hash"
     fi
 

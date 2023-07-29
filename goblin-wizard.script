@@ -1,0 +1,9 @@
+[Unit]
+Description=Goblin Wizard
+
+[Service]
+ExecStart=/root/code/goblin-den/fire-ball.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

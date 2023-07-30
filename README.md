@@ -1,4 +1,4 @@
-# goblin-den
+# Goblen Den
 My personal blog using goblin as the generator
 
 # Install Goblen

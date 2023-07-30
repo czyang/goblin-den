@@ -1,6 +1,9 @@
 # goblin-den
 My personal blog using goblin as the generator
 
+# Install Goblen
+https://github.com/czyang/goblin
+
 ## Auto fetch and gen blog
 ```bash
 cp ./goblin-wizard.service /etc/systemd/system/

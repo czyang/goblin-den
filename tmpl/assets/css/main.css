@@ -1,6 +1,6 @@
 body {
   margin-left: 0;
-  margin-bottom: 0;
+  margin-bottom: 100px;
   padding-top: 10px;
   color: #24292e;
   font-size: 20px;
@@ -152,4 +152,11 @@ pre code {
 
 hr {
   border-color: #eeeded;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }

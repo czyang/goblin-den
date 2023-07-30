@@ -30,7 +30,7 @@ Edit in Github web:
 ![image](assets/editor_github.png)
 
 
-### 2. A app writing in Golang
+### 2. An app written in Golang
 
 golang is very suitable for this use case. At this point, it's only 449 lines of go code.
 
@@ -52,7 +52,7 @@ find . -name "*.go" ! -path "./vendor/*" -print0 | xargs -0 wc -l
 
 All my blog posts and other static fils(index.html) all lies in the repo [Goblin Den](https://github.com/czyang/goblin-den)
 
-### 4. A ChatGPT write script use for sync
+### 4. A script written by ChatGPT for sync
 
 ChatGPT is at least of the god for script writing, I can effortlessly write a script doing some non-trivial job, for example,
 periodically sync folder from remote git repo, and generate my blog posts. 

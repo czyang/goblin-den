@@ -19,7 +19,7 @@ manner. To sustain this blog over a long period, having complete control over th
 I developed what I believe to be the simplest and cleanest design.
 
 ## My solution
-### 1. I've chosen to use Markdown as the source format for my blog posts.
+### 1. Use Markdown as the source format for blog posts
 
 Markdown is incredibly simple and user-friendly, with numerous online and native tools available to create and modify 
 Markdown files. In the near future, I plan to use Github as my blog editor. This setup will allow me to create, read, 

@@ -27,7 +27,7 @@ update, and delete my blog posts directly from a Github repository. My blog will
 user interface provides easy blog management and convenient HTML conversion.
 
 Edit in Github web:
-![image](https://github.com/czyang/goblin-den/assets/830725/9fafddf9-c15c-4820-8903-b1ed5bfda3da)
+![image](assets/editor_github.png)
 
 
 ### 2. A app writing in Golang

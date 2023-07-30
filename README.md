@@ -1,6 +1,8 @@
 # Goblen Den
 My personal blog using goblin as the generator
 
+Check my blog on: [codingmelody.com](https://codingmelody.com/)
+
 # Install Goblen
 https://github.com/czyang/goblin
 

@@ -8,7 +8,7 @@ permanent: lets-go-my-dark-lord
 
 # Let's Go My Dark Lord
 
-![Alt text](../attachment/letsgodarklord/img1.png "Logo Title Text 1" "Screenshot")
+![Alt text](assets/letsgodarklord/img1.png "Logo Title Text 1" "Screenshot")
 
 **This is a SGDC Game Jam C game. Theme is "Cooperation"**
 

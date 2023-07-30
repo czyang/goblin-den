@@ -8,7 +8,7 @@ permanent: voice-fighter-for-iphone
 
 # Voice Fighter (for iPhone)
 
-![alt text](../attachment/vfios/512.png "Logo Title Text 1")
+![alt text](assets/vfios/512.png "Logo Title Text 1")
 
 Play the game only by your VOICE !!!
 
